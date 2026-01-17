@@ -1,6 +1,7 @@
 ##### Hi, I am Assumpta Chiamaka
 I am a certified data analyst. I am skilled in Excel, SQL, Power BI and Python. I turn health and business data into actionable Insight.
-[Assumpta Chiamaka Osumune](www.linkedin.com/in/assumpta-chiamaka-osumune-41b4942a7)I am a certified data analyst. I am skilled in Excel, SQL, Power BI and Python. I turn health and business data into actionable Insight.
+
+[Assumpta Chiamaka Osumune](www.linkedin.com/in/assumpta-chiamaka-osumune-41b4942a7) Is a certified data analyst. I am skilled in Excel, SQL, Power BI and Python. I turn health and business data into actionable Insight.
 **I clean, visualize, and interprete data**
 
 :smile: I am currently working on **Data Visualization and Modelling**
